@@ -9,4 +9,4 @@
   
 </p>
 
-<img align="right" alt="Coding" width="400" src = "https://swanky.website/PicturesAndGifs/application.gif" />
+![Alt Text](https://swanky.website/PicturesAndGifs/application.gif)
