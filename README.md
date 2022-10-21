@@ -8,3 +8,10 @@
 <img src="https://swanky.website/PicturesAndGifs/Screenshot3.png" width="300" height="500"/> 
   
 </p>
+
+<p align="left">
+
+  <img align="center" width="300" height="500" src = "https://swanky.website/PicturesAndGifs/application.gif" />
+  
+  
+</p>
