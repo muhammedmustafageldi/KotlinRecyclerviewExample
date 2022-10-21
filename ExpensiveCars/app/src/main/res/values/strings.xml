@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExpensiveCars</string>
+    //One car ->
+    <string name="firstName">Rolls Royce Boa25t Tail</string>
+    <string name="firstDetails">Karşınızda Rolls Royce Boat Tail . Yapılan açıklamaya göre bu otomobilden yalnızca üç adet üretilmiş. Rolls Royce Boat Tail 570 beygir güce ve 6.75 litre çift turbo V12 motora sahip. Eğer sizde bu fantastik tasarımlı otomobilin fiyatını merak ediyorsanız bu merakınızı giderelim. Rolls Royce Boat Tail tam olarak 28 milyon dolar.</string>
+    <string name="secondName">Bugatti La Voiture Noire</string>
+    <string name="secondDetails">Karşınızda Bugatti La Voiture Noire de Chiron, Chiron Sport ve Divo’da da bulunan 4 turbolu 8.0 litrelik W16 motoru kullanmaktadır. Aynı zamanda otomobilin sahip olduğu motor 1500 beygir gücü ve 1600 Nm tork üretebiliyor. Üstelik tam olarak 6 adet egzoz sistemini de bünyesinde barındırıyor. La Voiture Noire de kullanılan boydan boya LED stop lambalar, araca ayrı bir hava katıyor. Araçtan özel sipariş üzerine sadece bir adet üretildi. Aracın fiyatı ise 18.9 milyon dolar.</string>
+    <string name="thirdName">Pagani Zonda, HP Barchetta</string>
+    <string name="thirdDetails">Bir diğer arabamız Pagani Zonda HP Barchetta, 6.0 litrelik çift turbo özellikli V12 motoruna sahiptir. Aynı zamanda otomobilin motoru 789 beygir gücünde ve 6 ileri manuel şanzımana sahiptir. Bu spor otomobil 0-100 km/s hızlanmasını sadece 3.1 saniyede tamamlıyor. Ayrıca maksimum hızı 338 km/s olarak bilinmektedir. Spor otomobilden sadece üç tane üretildi. Otomobilin bir tanesi şirketin kurucusu olan Horacio Pagani’ye ait. Diğer iki tanenin ise sahipleri henüz bilinmiyor. Pagani Zonda HP Barchetta’nın fiyatı ise 17.5 milyon dolar.</string>
+    <string name="forthName">Rolls-Royce, Sweptail</string>
+    <string name="forthDetails">Rolls-Royce, Sweptail tamamen sipariş veren kişiye göre tasarlanmıştır. Ve bitiş süresi 4 yıl sürmüştür. Sweptail, dış tasarımı ve kullanılan malzemelerinin kalitesi olması dışında ayrıca oldukça da güçlü bir otomobildir. Araç, 6.75 litrelik çift turbo W12 motora sahiptir. Ayrıca motor 453 beygir gücüne sahiptir. Böylece 0-100 km/s hızlanmasını 6 saniyede tamamlıyor. Maksimum hızı ise 250 km/s’tir. Şimdi merakla beklediğimiz kısma gelelim. Her şeyiyle özel üretim olan otomobilin fiyatı 13 milyon dolar.</string>
+    <string name="fifthName">Bugatti Centodieci</string>
+    <string name="fifthDetails">Centodieci’nin teknik özelliklerine baktığımızda diğer Bugatti modellerinden pek de farkı olmadığını görebiliyoruz. Eğer bu otomobili Chiron ile kıyaslarsak en büyük farkının 20 kg daha hafif olması diyebiliriz. Bugatti Centodieci’de 8.0 litre W16 motor bulunuyor. Aynı zamanda araç 1576 beygir gücüne sahip.</string>
+</resources>
