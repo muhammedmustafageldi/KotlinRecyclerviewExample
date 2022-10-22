@@ -10,6 +10,6 @@
 </p>
 
 
-[![](https://swanky.website/PicturesAndGifs/application.gif)
-](https://github.com/muhammedmustafageldi/KotlinRecyclerviewExample/blob/main/PhotosAndGifs/application.gif)
+
+![grab-landing-page](https://github.com/muhammedmustafageldi/KotlinRecyclerviewExample/blob/main/PhotosAndGifs/application.gif)
 
