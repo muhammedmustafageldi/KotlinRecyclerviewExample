@@ -10,6 +10,6 @@
 </p>
 
 
-![](https://swanky.website/PicturesAndGifs/Screenshot3.png)
+![](https://swanky.website/PicturesAndGifs/application.gif)
 
 
