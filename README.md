@@ -12,6 +12,10 @@
 ## Demo
 
 <img src="https://github.com/muhammedmustafageldi/KotlinRecyclerviewExample/blob/main/PhotosAndGifs/application.gif" width="300" height="500" />
+
+<br/>
+
+**Tecnolojies**
   
 
   
