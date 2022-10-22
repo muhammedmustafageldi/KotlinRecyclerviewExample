@@ -2,7 +2,7 @@
 
 ## This project is a simple recyclerview example coded in kotlin language. My purpose in writing this project is to practice the recyclerview object in kotlin and to code it in the most efficient way.
 
-- 📫 How to reach me **muhammedmustafageldi@gmail.com**
+- 📫 Please feel free to give me feedback. Here is my e-mail address **muhammedmustafageldi@gmail.com**
 
 ## Screenshots:
 
