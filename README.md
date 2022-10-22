@@ -9,4 +9,5 @@
   
 </p>
 
-![Alt Text](https://swanky.website/PicturesAndGifs/application.gif)
+
+<img src="https://swanky.website/PicturesAndGifs/application.gif" width="40" height="40" />
