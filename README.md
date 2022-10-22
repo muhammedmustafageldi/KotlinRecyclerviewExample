@@ -15,7 +15,7 @@
 
 # *Used Technologies*
 
-**Compiler: ** 
+**Compiler:** 
   
 
   
