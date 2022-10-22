@@ -11,9 +11,8 @@
 
 ## Demo
 
-<p align="right">
 <img src="https://github.com/muhammedmustafageldi/KotlinRecyclerviewExample/blob/main/PhotosAndGifs/application.gif" width="300" height="500" />
   
- ## This project is a simple recyclerview example coded in kotlin language.
+
   
-</p>
+
