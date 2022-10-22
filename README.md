@@ -9,9 +9,6 @@
   
 </p>
 
-## Demo
-
-<img src="https://github.com/muhammedmustafageldi/KotlinRecyclerviewExample/blob/main/PhotosAndGifs/application.gif" width="300" height="500" />
 
 # *Used Technologies*
 
@@ -20,5 +17,9 @@
   
 <h3 align="left">Programming Language:</h3>
 <p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/kotlin.png" alt="Kotlin" width="60" height="60"/>
+  
+# *Demo*
+
+<img src="https://github.com/muhammedmustafageldi/KotlinRecyclerviewExample/blob/main/PhotosAndGifs/application.gif" width="300" height="500" />
   
 
