@@ -28,4 +28,5 @@
 <img src="https://github.com/muhammedmustafageldi/KotlinRecyclerviewExample/blob/main/PhotosAndGifs/application.gif" width="250" height="400" />
   </p>
   
-  > # *Thank you for viewing my project.* 🙃
+  > # *Thank you for viewing my project.
+  Don't forget to star if you liked it.* 🙃
