@@ -23,8 +23,7 @@
 <p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/kotlin.png" alt="Kotlin" width="70" height="70"/>
   
 # *Here's a little demo:*
+  <p align="left">
   ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
 <img src="https://github.com/muhammedmustafageldi/KotlinRecyclerviewExample/blob/main/PhotosAndGifs/application.gif" width="300" height="500" />
-  
-
+  </p>
