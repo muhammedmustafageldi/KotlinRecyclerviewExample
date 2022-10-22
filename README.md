@@ -9,7 +9,7 @@
   
 </p>
 
-
+![Alt Text](https://github.com/muhammedmustafageldi/KotlinRecyclerviewExample/blob/main/PhotosAndGifs/application.gif)
 
 ![grab-landing-page](https://github.com/muhammedmustafageldi/KotlinRecyclerviewExample/blob/main/PhotosAndGifs/application.gif)
 
