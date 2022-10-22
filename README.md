@@ -27,3 +27,5 @@
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="250" height="400" />
 <img src="https://github.com/muhammedmustafageldi/KotlinRecyclerviewExample/blob/main/PhotosAndGifs/application.gif" width="250" height="400" />
   </p>
+  
+  > # *Thank you for viewing my project.* 🙃
