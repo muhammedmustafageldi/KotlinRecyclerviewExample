@@ -24,6 +24,6 @@
   
 # *Here's a little demo:*
   <p align="left">
-<img src="https://myoctocat.com/assets/images/base-octocat.svg" width="300" height="500" />
-<img src="https://github.com/muhammedmustafageldi/KotlinRecyclerviewExample/blob/main/PhotosAndGifs/application.gif" width="300" height="500" />
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" width="250" height="400" />
+<img src="https://github.com/muhammedmustafageldi/KotlinRecyclerviewExample/blob/main/PhotosAndGifs/application.gif" width="250" height="400" />
   </p>
