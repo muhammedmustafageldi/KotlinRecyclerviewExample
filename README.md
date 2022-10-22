@@ -1,6 +1,8 @@
 # EXPENSIVE CARS
 
-## This project is a simple recyclerview example coded in kotlin language.
+## This project is a simple recyclerview example coded in kotlin language. My purpose in writing this project is to practice the recyclerview object in kotlin and to code it in the most efficient way.
+
+- 📫 How to reach me **muhammedmustafageldi@gmail.com**
 
 ## Screenshots:
 
