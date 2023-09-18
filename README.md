@@ -7,9 +7,9 @@
 ## Screenshots:
 
 <p align="left">
-<img src="https://github.com/muhammedmustafageldi/My-Design-Files/blob/main/Screnshots/ExpensiveCars/Screenshot1.png" width="250" height="400"/>
-<img src="https://github.com/muhammedmustafageldi/My-Design-Files/blob/main/Screnshots/ExpensiveCars/Screenshot2.png" width="250" height="400"/> 
-<img src="https://github.com/muhammedmustafageldi/My-Design-Files/blob/main/Screnshots/ExpensiveCars/Screenshot3.png" width="250" height="400"/> 
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ExpensiveCars/Screenshot1.png" width="250" height="400"/>
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ExpensiveCars/Screenshot2.png" width="250" height="400"/> 
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ExpensiveCars/Screenshot3.png" width="250" height="400"/> 
   
 </p>
 
